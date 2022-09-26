@@ -10,7 +10,7 @@
 }
 
 #main{
-    background-color: lightgray; 
+    background-color: palevioletred; 
     margin-top: 0px; 
     padding: 8px; 
     text-align: justify;
@@ -18,7 +18,7 @@
 }
 .title{
     font-size: 36pt; 
-    background-color: black; 
+    background-color: purple; 
     color: lightgray; 
     text-align: center; 
     padding: 0px;
@@ -27,7 +27,7 @@
 }
 
 .subtitle{
-    background-color: yellow; 
+    background-color: darkkhaki; 
     margin: 0px;
     text-align: center;
     font-size: 18pt; 
